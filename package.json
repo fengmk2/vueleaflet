@@ -41,7 +41,6 @@
     "typescript": "^6.0.3",
     "vite": "https://pkg.pr.new/voidzero-dev/vite-plus/@voidzero-dev/vite-plus-core@1588",
     "vite-plus": "https://pkg.pr.new/voidzero-dev/vite-plus@1588",
-    "vitest": "^4.1.5",
     "vue-tsc": "^3.2.8"
   },
   "publishConfig": {
